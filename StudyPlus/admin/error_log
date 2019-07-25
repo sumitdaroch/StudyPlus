@@ -1,0 +1,1 @@
+[01-Jul-2019 05:57:12 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/a69m5b4i69vx/public_html/StudyPlus/admin/connection.php on line 2
